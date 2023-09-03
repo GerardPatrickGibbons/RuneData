@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'AngularRuneDataApp';
-  subtitle = 'this is supposed to be a subtitle, I don\'t know.'
+  title = 'title text goes here';
+  subtitle = 'subtitle Text Goes Here'
 }
